@@ -44,6 +44,7 @@
 //--------------------------------------------------------------------+
 // BLE OTA
 //--------------------------------------------------------------------+
+#define OTA_DFU_ON_INVALID_APP
 #define BLEDIS_MANUFACTURER   "Aibstract"
 #define BLEDIS_MODEL          "Devkit"
 
